@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Uprety"
+    given-names: "Sagar"
+    email: "sagar.uprety@ucl.ac.uk"
+repository-code: "https://github.com/UCL-ARC/langxtract"
+title: "langxtract: A package to enable information extraction from documents using Large Language Models"
+license: "MIT"
